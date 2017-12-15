@@ -5,5 +5,5 @@ In communicating with this Slackbot, users can create gCal events (repeating, or
 
 ![screenshot](https://github.com/ajoann/Slackbot/blob/master/img/jarvis_conflict.png)
 
-<img align="left" width="100" height="100" src="https://github.com/ajoann/Slackbot/blob/master/img/jarvis_conflict.png">
+<img align="left" width="200" height="150" src="https://github.com/ajoann/Slackbot/blob/master/img/jarvis_conflict.png">
 This repo is forked from the original created in collaboration with @ahijaouy, @dchan331, and @pradyutbensal
